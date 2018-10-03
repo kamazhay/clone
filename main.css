@@ -1,5 +1,5 @@
-img.logo {
-    width: 100px;
+img .logo {
+    width: 20%;
 }
 
 @media only screen and (min-width 760px) {
@@ -11,6 +11,10 @@ img.logo {
 
 img {
     width: 100%;
+}
+
+img .img-icon {
+    width: 20%;
 }
 
 
