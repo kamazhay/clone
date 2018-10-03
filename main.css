@@ -2,13 +2,6 @@
     width: 100px;
 }
 
-@media only screen and (min-width 760px) {
-    img.slack-image {
-        max-width: 1200px;
-        height: auto;
-    }
-}
-
 img {
     width: 100%;
 }
@@ -96,6 +89,9 @@ p {
     .container {
         max-width: 728px;
         margin: 0 auto;
+    }
+    img.slack-image {
+        height: auto;
     }
 }
 
