@@ -47,6 +47,7 @@ h1 {
     font-family: Playfair Display;
     font-size: calc(2.2rem + (41.599999999999994 * (100vw - 400px)/ 624));
     text-align: left;
+    line-height: 1.05;
     margin-bottom: 32px;
     margin-top: 0;
     margin-left: 0;
