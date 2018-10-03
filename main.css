@@ -82,6 +82,11 @@ p {
         max-width: 728px;
         margin: 0 auto;
     }
+    img.main {
+        max-width: 100%;
+        display: block;
+        height: auto;
+    }
 }
 
 
