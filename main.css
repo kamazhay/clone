@@ -28,6 +28,11 @@ body {
     padding: 10px;
 }
 
+div {
+    transition-property: opacity, left;
+    transition-duration: 2s, 4s;
+}
+
 
 /* ---- typography ---- */
 
