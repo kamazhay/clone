@@ -11,7 +11,7 @@ img {
 }
 
 header {
-    padding-bottom: 70px;
+    padding-bottom: 48px;
 }
 
 
@@ -45,7 +45,7 @@ body {
 
 h1 {
     font-family: Playfair Display;
-    font-weight: 600;
+    font-size: calc(2.2rem + (41.599999999999994 * (100vw - 400px)/ 624));
     text-align: left;
     margin-bottom: 32px;
     margin-top: 0;
