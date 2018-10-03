@@ -97,7 +97,6 @@ header {
 
 .container {
     margin: 0 20px;
-    background-color: green;
 }
 
 .section {
@@ -111,7 +110,8 @@ header {
         margin: 0 auto;
     }
     img.slack-image {
-        height: auto;
+        height: 300px;
+        width: auto;
     }
 }
 
