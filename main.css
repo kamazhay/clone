@@ -2,9 +2,15 @@ img.logo {
     width: 100px;
 }
 
-img.main {
-    max-width: 100%;
-    height: auto;
+@media only screen and (min-width 760px) {
+    img.slack-image {
+        max-width: 1200px;
+        height: auto;
+    }
+}
+
+img {
+    width: 100%;
 }
 
 
