@@ -2,6 +2,11 @@ img.logo {
     width: 100px;
 }
 
+img.main {
+    max-width: 100%;
+    height: auto;
+}
+
 
 /* ---- reset ---- */
 
@@ -81,11 +86,6 @@ p {
     .container {
         max-width: 728px;
         margin: 0 auto;
-    }
-    img.main {
-        max-width: 100%;
-        display: block;
-        height: auto;
     }
 }
 
